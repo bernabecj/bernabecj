@@ -7,6 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernabecj&label=Profile%20views&color=0e75b6&style=flat" alt="bernabecj" /> </p>
 
+-   🌱 I’m currently learning **Project management**
+
+-   👨‍💻 All of my projects are available at [https://fromscratch.neocities.org](https://fromscratch.neocities.org)
+
+-   📫 How to reach me **bernabecj78@gmail.com**
+
+-   ⚡ Fun fact **I admire people's creativity**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaime-bernabe-herrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaime-bernabe-herrera" height="30" width="40" /></a>
