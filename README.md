@@ -9,7 +9,7 @@
 
 -   🌱 I’m currently learning **Project management**
 
--   👨‍💻 All of my projects are available at [https://fromscratch.neocities.org](https://fromscratch.neocities.org)
+-   👨‍💻 All of my projects are available at [https://bernabecj.github.io/portfolio](https://bernabecj.github.io/portfolio)
 
 -   📫 How to reach me **bernabecj78@gmail.com**
 
